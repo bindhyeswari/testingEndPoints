@@ -1,0 +1,25 @@
+{
+  "name": "working-async",
+  "version": "1.0.0",
+  "description": "",
+  "main": "async.js",
+  "devDependencies": {
+    "chakram": "^1.2.2",
+    "jasmine-core": "^2.4.1",
+    "karma": "^0.13.22",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.7"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "jasmine-core": "^2.4.1",
+    "karma-chrome-launcher": "^0.2.2",
+    "karma-jasmine": "^0.3.8",
+    "mocha": "^2.4.5"
+  }
+}
